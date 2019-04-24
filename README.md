@@ -7,5 +7,5 @@ steps to run this code:
 4. open whatsapp web using QR code
 5. check the successfully sent messages..!!
 
-To send message: run send_msg.py file
+To send message: run send_msg.py file <br>
 To see the recent chat contacts: run recent_chat_contacts.py file
